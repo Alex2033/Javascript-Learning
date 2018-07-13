@@ -1,4 +1,4 @@
-npm-debug.log*
+*.log
 
 node_modules
 
@@ -7,3 +7,5 @@ node_modules
 .tmp
 
 *~
+
+README.MD
