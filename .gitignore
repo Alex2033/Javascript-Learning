@@ -1,11 +1,7 @@
 *.log
-
+.gitignore
 node_modules
-
 .DS_Store
-
 .tmp
-
 *~
-
 README.MD
